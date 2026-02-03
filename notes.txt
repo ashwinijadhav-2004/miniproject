@@ -1,1 +1,10 @@
 initiaze Git
+  
+Day 1: Install Git
+
+Day 2:Create GitHub account
+
+Day 3:Create folder
+
+Day 4:create Git repo link
+
